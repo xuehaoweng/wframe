@@ -1,0 +1,11 @@
+werkzeug==2.3.7
+jinja2==3.1.2
+apispec==6.3.0
+marshmallow==3.20.1
+apispec-webframeworks==0.5.2
+bcrypt==4.0.1
+PyJWT==2.8.0
+python-dotenv==1.0.0
+SQLAlchemy==1.4.50
+alembic==1.12.1
+click==8.1.7 
